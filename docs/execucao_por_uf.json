@@ -1,0 +1,110 @@
+{
+  "AC": {
+    "linhas": 9291,
+    "segundos": 49.18
+  },
+  "AL": {
+    "linhas": 231590,
+    "segundos": 188.3
+  },
+  "AM": {
+    "linhas": 69326,
+    "segundos": 130.17
+  },
+  "AP": {
+    "linhas": 30216,
+    "segundos": 56.2
+  },
+  "BA": {
+    "linhas": 318219,
+    "segundos": 315.69
+  },
+  "CE": {
+    "linhas": 290896,
+    "segundos": 212.93
+  },
+  "DF": {
+    "linhas": 109749,
+    "segundos": 98.79
+  },
+  "ES": {
+    "linhas": 238209,
+    "segundos": 208.05
+  },
+  "GO": {
+    "linhas": 262769,
+    "segundos": 220.35
+  },
+  "MA": {
+    "linhas": 324992,
+    "segundos": 269.95
+  },
+  "MG": {
+    "linhas": 1069874,
+    "segundos": 1073.17
+  },
+  "MS": {
+    "linhas": 162010,
+    "segundos": 305.33
+  },
+  "MT": {
+    "linhas": 121802,
+    "segundos": 289.8
+  },
+  "PA": {
+    "linhas": 257834,
+    "segundos": 533.44
+  },
+  "PB": {
+    "linhas": 54082,
+    "segundos": 134.58
+  },
+  "PE": {
+    "linhas": 139524,
+    "segundos": 298.52
+  },
+  "PI": {
+    "linhas": 43332,
+    "segundos": 110.19
+  },
+  "PR": {
+    "linhas": 458866,
+    "segundos": 780.24
+  },
+  "RJ": {
+    "linhas": 508492,
+    "segundos": 469.27
+  },
+  "RN": {
+    "linhas": 49378,
+    "segundos": 89.81
+  },
+  "RO": {
+    "linhas": 35843,
+    "segundos": 73.76
+  },
+  "RR": {
+    "linhas": 9157,
+    "segundos": 33.45
+  },
+  "RS": {
+    "linhas": 271059,
+    "segundos": 254.34
+  },
+  "SC": {
+    "linhas": 251089,
+    "segundos": 190.34
+  },
+  "SE": {
+    "linhas": 36432,
+    "segundos": 57.4
+  },
+  "SP": {
+    "linhas": 2282104,
+    "segundos": 2952.93
+  },
+  "TO": {
+    "linhas": 41904,
+    "segundos": 100.42
+  }
+}
